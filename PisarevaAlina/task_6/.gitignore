@@ -1,0 +1,6 @@
+*.swp
+*.swo
+*~
+*.o
+a.out
+task_*
